@@ -15,8 +15,8 @@ a {
 }
 
 img {
-    height: 60%;
-    width: 20%;
+    height: 80%;
+    width: 30%;
     margin: 15px 0;
 }
 
@@ -38,7 +38,7 @@ footer {
     flex-direction: row;
     align-items: center;
     padding-left: 28%;
-    height: 250px;
+    height: 200px;
     /* justify-content: space-between;
     align-content: center;  */
 }

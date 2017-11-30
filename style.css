@@ -1,7 +1,14 @@
 
-
+h1 {
+    font-family: "Monoton", cursive;
+    color: rgb(255, 107, 255);
+    font-size: 350%;
+    border-bottom: 13px solid rgb(255, 107, 255);
+    
+}
 
 img {
     height: 60%;
     width: 20%;
 }
+
